@@ -4,7 +4,7 @@ This is a sample blog starter project to test your ability to learn new skills a
 
 ## What you need to do
 
-We need you to take this sample project and add some extra features and completely overhaul the visual layout and design of the project to match this design: https://xd.adobe.com/view/bf79f426-9e97-4e02-a1ff-1cc7f34ed338-ea2a/.
+We need you to take this sample project and add some extra features and completely overhaul the visual layout and design of the project to match this [design](https://app.zeplin.io/project/63dbb474e7889e49675a774b?sid=63dbb48f07813648ac4ec56f&sid=63dbb4932ca62a4adc2ff6ec&sid=63dbb4932ca62a4adc2ff6ec&sid=63dbb48f07813648ac4ec56f&utm_source=zeplin&utm_medium=email&utm_campaign=new_screen_notification)
 
 ## Key goals and deliverables
 
@@ -48,4 +48,4 @@ In order to submit this assignment you will need clone this project and then [pu
 
     Your site is now running at `http://localhost:3000`!
 
-    Open the `nextjs-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `nextjs-blog-starter` directory in your code editor of choice and edit `pages/index.tsx`. Save your changes and the browser will update in real time!
