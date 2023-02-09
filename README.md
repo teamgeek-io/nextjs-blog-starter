@@ -14,6 +14,10 @@ We need you to take this sample project and add some extra features and complete
 - The project will have to be responsive and work well on mobile.
 - We will be assessing your final solution by building the project using `yarn build` and `yarn start` so make sure your project can be built without any errors.
 
+## Bonus deliverable
+
+- Incorporate SSR on the index page in order to show the user a randomised, server generated message.
+
 ## Dependencies and tools
 
 - You may install any depandencies or tools that may be required.
